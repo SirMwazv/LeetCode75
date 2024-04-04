@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "LeetCode75TestProject.sln",
+    "cmake.configureOnOpen": true
+}
